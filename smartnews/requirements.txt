@@ -1,0 +1,9 @@
+Django~=2.2.4
+djangorestframework
+markdown
+django-filter
+requests
+bs4
+lxml
+keras=2.1.5
+tensorflow=1.5.0
