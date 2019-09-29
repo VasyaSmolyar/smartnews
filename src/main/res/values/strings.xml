@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart News</string>
+    <string-array name="relations">
+        <item>Excellent</item>
+        <item>Good</item>
+        <item>Neutral</item>
+        <item>Bad</item>
+        <item>Harmful</item>
+    </string-array>
+    <string name="concrete">Concrete</string>
+    <string name="author_relations">Author relations</string>
+    <string name="filter">Filter</string>
+</resources>

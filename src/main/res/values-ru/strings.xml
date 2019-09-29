@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart News</string>
+    <string-array name="relations">
+        <item>Отличное</item>
+        <item>Хорошее</item>
+        <item>Нейтральное</item>
+        <item>Плохое</item>
+        <item>Ужасное</item>
+    </string-array>
+    <string name="concrete">Конкретика</string>
+    <string name="author_relations">Отношение автора</string>
+    <string name="filter">Фильтр</string>
+</resources>
